@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Activitat_1Constraint_Layout/app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Activitat_1Constraint_Layout/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/Activitat_1Constraint_Layout/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Intents_Activities/app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Intents_Activities/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/Intents_Activities/build" />
+      <excludeFolder url="file://$MODULE_DIR$/RecyclerViews_Llistes/app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/RecyclerViews_Llistes/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/RecyclerViews_Llistes/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
